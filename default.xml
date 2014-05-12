@@ -6,7 +6,7 @@
   <project path="include" name="HRTGroup/" remote="HRTGroup/kernel_sm-g900f_include" revision="master" />
   <project path="block" name="HRTGroup/" remote="HRTGroup/kernel_sm-g900f_block" revision="master" />
   <project path="arch" name="HRTGroup/" remote="HRTGroup/kernel_sm-g900f_arch" revision="master" />
-  <project path="" name="HRTGroup/kernel_sm-g900f_root" remote="HRTGroup" revision="master" />
+  <project path="kernel_sm-g900f" name="HRTGroup/kernel_sm-g900f_root" remote="HRTGroup" revision="master" />
   <project path="drivers" name="HRTGroup/kernel_sm-g900f_drivers" remote="HRTGroup" revision="master" />
   
 </manifest>
