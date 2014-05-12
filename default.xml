@@ -3,10 +3,10 @@
 
   <remote name="HRTGroup" fetch="git://github.com/" />
   
-  <project path="include" name="HRTGroup/kernel_sm-g900f_include" remote="HRTGroup" revision="master" />
-  <project path="block" name="HRTGroup/kernel_sm-g900f_block" remote="HRTGroup" revision="master" />
-  <project path="arch" name="HRTGroup/kernel_sm-g900f_arch" remote="HRTGroup" revision="master" />
-  <project path="" name="HRTGroup/kernel_sm-g900f_root" remote="HRTGroup" revision="master" />
-  <project path="drivers" name="HRTGroup/kernel_sm-g900f_drivers" remote="HRTGroup" revision="master" />
+  <project path="kernel_sm-g900f/include" name="HRTGroup/kernel_sm-g900f_include" remote="HRTGroup" revision="master" />
+  <project path="kernel_sm-g900f/block" name="HRTGroup/kernel_sm-g900f_block" remote="HRTGroup" revision="master" />
+  <project path="kernel_sm-g900f/arch" name="HRTGroup/kernel_sm-g900f_arch" remote="HRTGroup" revision="master" />
+  <project path="kernel_sm-g900f" name="HRTGroup/kernel_sm-g900f_root" remote="HRTGroup" revision="master" />
+  <project path="kernel_sm-g900f/drivers" name="HRTGroup/kernel_sm-g900f_drivers" remote="HRTGroup" revision="master" />
   
 </manifest>
